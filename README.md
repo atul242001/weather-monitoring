@@ -8,11 +8,7 @@ This project is a **Real-Time Weather Monitoring System** that fetches live weat
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Environment Variables](#environment-variables)
-- [How to Run the Project](#how-to-run-the-project)
-- [APIs and Endpoints](#apis-and-endpoints)
-- [Contributions](#contributions)
+
 
 ## Features
 
